@@ -43,7 +43,7 @@ Criar um dashboard interativo para apoiar a análise de vendas, permitindo:
 ---
 
 ## 📂 Estrutura do Projeto
-
+```text
 dashboard-faturamento/
 │
 ├── index.html # Dashboard publicado (GitHub Pages)
